@@ -3,7 +3,7 @@ This is a simple User Interface of a music player created in HTML, CSS and JavaS
 
 ## Demo
 
-You can try the Music Player live : vikashpathak.tech/Music-Player/
+You can try the Music Player live : (http://vikashpathak.tech/Music-Player/)
 
 ## Running the player
 
